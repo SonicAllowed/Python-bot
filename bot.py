@@ -7,7 +7,7 @@ from pathlib import Path
 import os
 
 # Настройка бота
-bot = telebot.TeleBot(os.getenv("BOT_TOKEN"))
+bot = telebot.TeleBot("8098386549:AAFjj62F3DbSLSUZxyCCtegYff2BL9V71sE")
 OWNER_CHAT_ID = 7286174250  # Замените на ваш chat_id
 
 # Настройка логирования
